@@ -11,3 +11,5 @@
 * Learn about Swift Classes and creating Objects.
 * Compare Swift Classes with Swift Structs and know when to use which.
 
+<img src="https://github.com/chitraarasu/Quizzler-IOS/blob/main/Simulator Screen Shot - iPhone 14 Pro - 2022-11-05 at 08.32.06.png" width="250" />
+
